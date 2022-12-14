@@ -23,3 +23,7 @@ DATEDIFF(dtEstimativaEntrega, dtEntregue) AS qtDiasPromessaEntrega
 
 From silver_olist.pedido
 
+
+-- COMMAND ----------
+
+
