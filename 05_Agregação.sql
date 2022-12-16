@@ -53,4 +53,13 @@ GROUP BY descUF
 
 -- COMMAND ----------
 
+SELECT 
+descUF,
+COUNT(*)
+FROM silver_olist.cliente
+GROUP BY descUF-- agrupando por estados
+
+
+-- COMMAND ----------
+
 
